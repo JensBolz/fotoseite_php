@@ -8,7 +8,7 @@
             include './head.php';
         ?>
     </head>
-    <body class="" id="top" oncontextmenu="return false">
+    <body class="" id="top" oncontextmenu="return true">
         <!--==============================header=================================-->
         <header>
             <div id="stuck_container">
