@@ -109,7 +109,7 @@
                                             </a>-->
                                     </div>
                                     <div class="grid_4 gal_item">
-                                        <a href="portfolio_goth.php">
+                                        <a href="test_portfolio.php">
                                             <img src="images/home/portfolio/thumbs/goth_thumb.jpg" alt="">
                                             <div class="gal_caption">Goth und Fetisch</div>
                                         </a>

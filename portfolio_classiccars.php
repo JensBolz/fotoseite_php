@@ -6,7 +6,7 @@
             include './head.php';
         ?>
     </head>
-    <body class="" id="top" oncontextmenu="return false">
+    <body class="" id="top" oncontextmenu="return true">
         <!--==============================header=================================-->
         <header>
             <div id="stuck_container">
@@ -38,122 +38,45 @@
         <div class="main">
             <!--=====================Content======================-->
             <section class="content cont_pad1">
-                <div class="container"><div class="ic">More Website Templates @ TemplateMonster.com - May 05, 2014!</div>
+                <div class="container">
                     <div class="gallery gall__1">
                         <div class="row">
                             <div class="grid_4">
                                 <h3>Classic Cars</h3>
                             </div>
                             <div class="clear"></div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big1.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb1.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big2.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars//thumb2.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big3.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb3.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>  
-                            <div class="clear"></div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big4.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb4.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big5.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb5.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big6.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb6.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big7.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb7.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big8.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb8.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big9.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb9.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big10.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb10.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big11.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb11.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/classiccars/big12.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/classiccars/thumb12.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
+                            <?php
+                            
+                            $dir_bigfiles = "images/gallery/big/classiccars/";
+                            $dir_thumbs = "images/gallery/thumbs/classiccars/";
+
+                            include './services/load_pictures.php';
+
+                            
+                            
+                           
+
+                     
+                            for ($i = 0; $i < 12; $i++) {
+                                $path_bigfiles = $dir_bigfiles . $file_array[$i]; //Verzeichnis mit Filename verbunden
+                                $path_thumbnails = $dir_thumbs . $thumbnail_array[$i];
+
+
+                                echo "<div class=\"grid_4\"> \n";
+                                echo "\t\t\t\t\t<div class=\"gal_item\">\n";
+                                echo "\t\t\t\t\t\t<a href=\"$path_bigfiles\"> \n";
+
+                                echo "\t\t\t\t\t\t\t<img src=\"$path_thumbnails\">\n";
+                                echo "\t\t\t\t\t\t\t<div class=\"gal_caption\">\n";
+                                echo "\t\t\t\t\t\t\t\t<time datetime=\"2014-01-01\">30 Jul 2016</time>\n";
+                                echo "\t\t\t\t\t\t\t</div>\n";
+                                echo "\t\t\t\t\t\t\t<span class=\"gal_magnify\"></span>\n";
+                                echo "\t\t\t\t\t\t</a>\n";
+                                echo "\t\t\t\t\t</div>\n";
+                                echo "\t\t\t\t</div>\n";
+                                echo "\t\t\t\t";
+                            }
+                            ?>
                         </div>
                     </div>
                 </div>
