@@ -49,4 +49,24 @@ if (is_dir($dir_thumbs)) {
 
 sort($thumbnail_array);
 sort($file_array);
+
+
+$counter = count($file_array);
+
+for ($i = 0; $i < $counter; $i++) {
+    $path_bigfiles = $dir_bigfiles . $file_array[$i]; //Verzeichnis mit Filename verbunden
+    $path_thumbnails = $dir_thumbs . $thumbnail_array[$i];
+
+
+    echo "<div class=\"grid_4\"> \n";
+    echo "\t\t\t\t\t\t<a href=\"$path_bigfiles\" class=\"gal_item\"> \n";
+    echo "\t\t\t\t\t\t\t<img src=\"$path_thumbnails\">\n";
+    echo "\t\t\t\t\t\t\t<div class=\"gal_caption\">\n";
+    echo "\t\t\t\t\t\t\t\t<time datetime=\"2014-01-01\">30 Jul 2016</time>\n";
+    echo "\t\t\t\t\t\t\t</div>\n";
+    echo "\t\t\t\t\t\t\t<span class=\"gal_magnify\"></span>\n";
+    echo "\t\t\t\t\t\t</a>\n";
+    echo "\t\t\t\t</div>\n";
+    echo "\t\t\t\t";
+}
 ?>
