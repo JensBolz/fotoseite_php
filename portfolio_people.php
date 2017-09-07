@@ -46,78 +46,12 @@
                                 <h3>Menschen</h3>
                             </div>
                             <div class="clear"></div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big3.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb3.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">30 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big4.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb4.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">30 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big5.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb5.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">30 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big6.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb6.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">30 Jul 2016</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div> 
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big7.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb7.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2015</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>   <div class="grid_4">
-                                <a href="images/gallery/big/people/big8.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb8.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">10 Jul 2015</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>   
-                            
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big1.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb1.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">20 Aug 2015</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>
-                            <div class="grid_4">
-                                <a href="images/gallery/big/people/big2.jpg" class="gal_item">
-                                    <img src="images/gallery/thumbs/people/thumb2.jpg" alt="">
-                                    <div class="gal_caption">
-                                        <time datetime="2014-01-01">18 Aug 2015</time>
-                                    </div>
-                                    <span class="gal_magnify"></span>
-                                </a>
-                            </div>                                                          
+                            <?php
+                            $dir_bigfiles = "images/gallery/big/people/";
+                            $dir_thumbs = "images/gallery/thumbs/people/";
+
+                            include './generate_gallery.php';
+                            ?>                                                       
                            
                             
                         </div>
