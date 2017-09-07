@@ -3,7 +3,7 @@
     <head>
         <title>Portfolio - Natur</title>
        <?php
-            include '../head.php';
+            include './head.php';
         ?>
     </head>
     <body class="" id="top" oncontextmenu="return false">

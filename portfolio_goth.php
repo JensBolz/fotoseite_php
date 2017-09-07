@@ -5,7 +5,7 @@
     <head>
         <title>Portfolio - Mystic und Fetisch</title>
         <?php
-            include '../head.php';
+            include './head.php';
         ?>
     </head>
     <body class="" id="top" oncontextmenu="return false">
