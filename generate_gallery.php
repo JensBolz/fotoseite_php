@@ -58,7 +58,7 @@ for ($i = $counter-1; $i >= 0; $i--) {
     $path_thumbnails = $dir_thumbs . $thumbnail_array[$i];
 
 
-    echo "<div class=\"grid_4\"> \n";
+    echo "<div class=\"grid_portfolio\"> \n";
     echo "\t\t\t\t\t\t<a href=\"$path_bigfiles\" class=\"gal_item\"> \n";
     echo "\t\t\t\t\t\t\t<img src=\"$path_thumbnails\">\n";
     echo "\t\t\t\t\t\t\t<div class=\"gal_caption\">\n";
