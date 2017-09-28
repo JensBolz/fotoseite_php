@@ -14,7 +14,7 @@
                     <div class="row">
                         <div class="grid_12">
                             <h1>
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="images/logo.png" alt="Your Happy Family">
                                 </a>
                             </h1>
@@ -149,6 +149,7 @@
                                                 <li>2 x Neewer VK750 II Speedlite</li>
                                                 <li>Neewer TT660 Speedlight</li>
                                                 <li>2 Yongnuo 560 II Speedlight</li>
+                                                <li>Yongnuo YN 568 EX Speedlight</li>
                                             </ul>
                                         </div>
                                     </div>
