@@ -8,7 +8,7 @@
                 <a href="#" class="fa fa-pinterest"></a>
             </div>-->
             <div class="copy">
-                <span class="brand">Jens Bolz</span> &copy; <span id="copyright-year"></span> | <a href="imprint.html">Impressum</a>                             
+                <span class="brand">Jens Bolz</span> &copy; <span id="copyright-year"></span> | <a href="imprint.php">Impressum</a>                             
             </div>
         </div>
     </div>
