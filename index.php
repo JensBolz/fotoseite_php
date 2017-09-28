@@ -121,14 +121,14 @@
                                         <h3>Über mich</h3>
                                         <p>
                                             Als hauptberuflicher Software- und Webentwickler ist Fotografie für mich ein Ausgleich zum Beruf und eine Art Meditation. Bei meinen eigenen Projekten oder Fototouren fotografiere das was mir Spaß macht und folge nicht einem bestimmten Trend oder irgendwelchen Vorgaben.<br>
-                                            
+
                                             Ich probiere auch gerne das ein oder andere aus wie z.B. Blitztechniken mit Aufsteckblitzen oder neue Wege in der Bildbarbeitung.
                                         </p>
                                         <p></p>
                                     </div>
                                 </div> 
-                                
-                                 <div class="row">
+
+                                <div class="row">
                                     <div class="grid_4a">
                                         <h3>Fotos im Netz</h3>
                                         <ul class="list1">
@@ -148,9 +148,9 @@
                                             </li>               
                                         </ul>
                                     </div>
-                                    </div>
-                                
-                                
+                                </div>
+
+
                                 <div class="row">
                                     <div class="clear"></div>
                                     <div class="grid_4a">
@@ -190,12 +190,12 @@
                                         </div>
                                     </div>
                                 </div>
-                                   
-                                    <div class="clear"></div>
-                                    <div class="grid_12">
-                                        <section class="bottom_block"></section>
-                                    </div>
-                                
+
+                                <div class="clear"></div>
+                                <div class="grid_12">
+                                    <section class="bottom_block"></section>
+                                </div>
+
                             </div>
                         </div>
                     </div>
