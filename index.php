@@ -22,7 +22,7 @@
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">
                                         <li class="current">Über</li>
-                                        <li><a href="contact.php">Kontakt</a></li>
+                                        <li><a href="contact.php">Kontakt</a></li>                                        
 
                                     </ul>
                                 </nav>
@@ -135,17 +135,24 @@
                                             <li>
                                                 <div class="list_count">1</div>
                                                 <div class="extra_wrapper">
-                                                    <div class="list1_title color2"><a href="https://500px.com/jens79" target="_blank">"Fotos auf 500px </a></div>Meine Fotos auf 500px
+                                                    <div class="list1_title color2"><a href="https://500px.com/jens79" target="_blank">500px </a></div>Meine Fotos auf 500px
                                                     <a href="https://500px.com/jens79" target="_blank" class="color1 td_und">More</a>
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="list_count">2</div>
                                                 <div class="extra_wrapper">
-                                                    <div class="list1_title color2"><a href="https://www.flickr.com/photos/jensbolz/" target="_blank">Fotos auf FLICKR</a></div>Meine Fotos auf FLICKR
+                                                    <div class="list1_title color2"><a href="https://www.flickr.com/photos/jensbolz/" target="_blank">FLICKR</a></div>Meine Fotos auf FLICKR
                                                     <a href="https://www.flickr.com/photos/jensbolz/" target="_blank" class="color1 td_und">More</a>
                                                 </div>
-                                            </li>               
+                                            </li> 
+                                            <li>
+                                                <div class="list_count">3</div>
+                                                <div class="extra_wrapper">
+                                                    <div class="list1_title color2"><a href="http://www.fotocommunity.de/fotograf/jens-bolz/2147626" target="_blank">fotocommunity</a></div>Meine Fotos in der fotocommunity
+                                                    <a href="http://www.fotocommunity.de/fotograf/jens-bolz/2147626" target="_blank" class="color1 td_und">More</a>
+                                                </div>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -184,7 +191,7 @@
                                                 <li>Triopo TR970N Speedlight</li>
                                                 <li>2 x Neewer VK750 II Speedlite</li>
                                                 <li>Neewer TT660 Speedlight</li>
-                                                <li>2 Yongnuo 560 II Speedlight</li>
+                                                <li>2 x Yongnuo 560 II Speedlight</li>
                                                 <li>Yongnuo YN 568 EX Speedlight</li>
                                             </ul>
                                         </div>
