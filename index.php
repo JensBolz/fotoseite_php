@@ -157,7 +157,6 @@
                                     </div>
                                 </div>
 
-
                                 <div class="row">
                                     <div class="clear"></div>
                                     <div class="grid_4a">
