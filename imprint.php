@@ -142,58 +142,11 @@
                         <p>Zuwiderhandlungen werden zur Anzeige gebracht.</p>
                     </div>
             </section>       
-            <!--==============================Bot_block=================================-->
-<!--            <section class="bottom_block">
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_5">
-                            <div class="bot_title">
-                                <span class="fa fa-envelope-o"></span>Subscribe to My Newsletter
-                            </div>
-                        </div>
-                        <div class="grid_7">
-                            <form id="newsletter">
-                                <div class="row">
-                                    <div class="grid_4">
-                                        <div class="rel">
-                                            <div class="success">Your subscrsibe request has been sent!</div>
-                                            <label class="email">
-                                                <input type="email" value="Your Email Address Here" >
-                                                <span class="error">*This is not a valid email address.</span>
-                                                <span class="clear"></span>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div class="grid_3">
-                                        <a href="#" class="btn bt__2" data-type="submit">Submit</a>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </section>-->
             <!--==============================footer=================================-->
             <footer>
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_12">
-<!--                            <div class="footer_socials">
-                                <a href="#" class="fa fa-twitter"></a>
-                                <a href="#" class="fa fa-facebook"></a>
-                                <a href="#" class="fa fa-google-plus"></a>
-                                <a href="#" class="fa fa-pinterest"></a>
-                            </div>-->
-                            <div class="copy">
-                                <span class="brand">Jens Bolz</span> <script type="text/javascript" language="JavaScript">
-                                    DatumAktuell = new Date();
-                                    JahrAktuell = DatumAktuell.getFullYear();
-                                    document.write("&copy; 2013 - " + JahrAktuell);
-                                </script> | <a>Impressum</a>                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <?php
+                include './footer.php';
+                ?>
             </footer>
     </body>
 </html>
