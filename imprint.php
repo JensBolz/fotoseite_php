@@ -188,7 +188,7 @@
                                 <span class="brand">Jens Bolz</span> <script type="text/javascript" language="JavaScript">
                                     DatumAktuell = new Date();
                                     JahrAktuell = DatumAktuell.getFullYear();
-                                    document.write("&copy; 20013 - " + JahrAktuell);
+                                    document.write("&copy; 2013 - " + JahrAktuell);
                                 </script> | <a>Impressum</a>                                
                             </div>
                         </div>
