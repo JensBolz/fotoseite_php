@@ -184,13 +184,11 @@
                                 <a href="#" class="fa fa-google-plus"></a>
                                 <a href="#" class="fa fa-pinterest"></a>
                             </div>-->
-                            <div class="copy">
-                                <span class="brand">Jens Bolz</span> <script type="text/javascript" language="JavaScript">
-                                    DatumAktuell = new Date();
-                                    JahrAktuell = DatumAktuell.getFullYear();
-                                    document.write("&copy; 2009 - " + JahrAktuell);
-                                </script> | <a>Impressum</a>                                
-                            </div>
+                             <footer>
+                                <?php
+                                include './footer.php';
+                                ?>
+                            </footer>
                         </div>
                     </div>
                 </div>

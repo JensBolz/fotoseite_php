@@ -8,8 +8,12 @@
                 <a href="#" class="fa fa-pinterest"></a>
             </div>-->
             <div class="copy">
-                <span class="brand">Jens Bolz</span> &copy; 2013 - <span id="copyright-year"></span> | <a href="imprint.php">Impressum</a>                             
-            </div>
+                                <span class="brand">Jens Bolz</span> <script type="text/javascript" language="JavaScript">
+                                    DatumAktuell = new Date();
+                                    JahrAktuell = DatumAktuell.getFullYear();
+                                    document.write("&copy; 2013 - " + JahrAktuell);
+                                </script> | <a>Impressum</a>                                
+                            </div>
         </div>
     </div>
 </div>
