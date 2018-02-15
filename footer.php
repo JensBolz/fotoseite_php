@@ -13,7 +13,7 @@
                     DatumAktuell = new Date();
                     JahrAktuell = DatumAktuell.getFullYear();
                     document.write("&copy; 2013 - " + JahrAktuell);
-                </script> | <a>Impressum</a>
+                                </script> | <a href="imprint.php">Impressum</a>
             </div>
         </div>
     </div>
