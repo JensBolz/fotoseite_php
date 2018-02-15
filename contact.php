@@ -6,20 +6,24 @@
             include './head.php';
         ?>
     </head>
-    <body class="" id="top">
+    <body class="" id="top" oncontextmenu="return true">
         <!--==============================header=================================-->
         <header>
             <div id="stuck_container">
                 <div class="container">
                     <div class="row">
                         <div class="grid_12">
-                            <div class="logo">Jens Bolz Photography</div>
+                            <h1>
+                                <a href="index.php">
+                                    <img src="images/logo.png" alt="Your Happy Family">
+                                </a>
                             </h1>
                             <div class="menu_block ">
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">
-                                        <li><a href="index.php">Über</a></li>                                        
-<!--                                        <li><a href="index-3.html">Blog</a></li>-->
+                                        <li><a href="index.php">Start</a></li> 
+                                        <li><a href="portfolio_main.php">Portfolio</a></li>
+                                        <li><a href="about.php">Über mich</a></li>
                                         <li class="current">Kontakt</li>
                                     </ul>
                                 </nav>
@@ -32,6 +36,18 @@
         </header>
         <div class="main">
             <!--=====================Imprint======================-->
+             <div class="block1">
+                <div class="container">
+                    <div class="row">
+                        <div class="grid_12">
+                            <div class="rel">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+            
             <section class="content">
                 <div class="container">
                     <div class="row">
