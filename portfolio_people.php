@@ -25,6 +25,7 @@
                                     <ul class="sf-menu">
                                         <li><a href="portfolio_main.php">Portfolio</a></li>
                                         <li class="current">People</li>
+                                         <li><a href="about.php">Über mich</a></li>
                                         <li><a href="contact.php">Kontakt</a></li>
 <!--                                         <li><a href="http://blog.jens-bolz.de/" target="_blank">Blog</a></li>-->
                                     </ul>
