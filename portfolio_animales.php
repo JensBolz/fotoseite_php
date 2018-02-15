@@ -21,8 +21,8 @@
                             <div class="menu_block ">
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">
-                                        <li><a href="index.php">Zurück</a></li>
-                                        <li class="current">Portfolio</li>
+                                        <li><a href="portfolio_main.php">Portfolio</a></li>
+                                        <li class="current">Tiere</li>
                                         <li><a href="contact.php">Kontakt</a></li>
                                         <!--                                         <li><a href="http://blog.jens-bolz.de/" target="_blank">Blog</a></li>-->
                                     </ul>
