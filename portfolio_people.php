@@ -34,7 +34,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1"></div>  
+                <div class="block1">Menschen</div>  
             </div>
         </header>
         <div class="main">
@@ -44,9 +44,7 @@
                 <div class="container">
                     <div class="gallery gall__1">
                         <div class="row">
-                            <div class="grid_4">
-                                <h3>Menschen</h3>
-                            </div>
+                            
                             <div class="clear"></div>
                             <?php
                             $dir_bigfiles = "images/gallery/big/people/";

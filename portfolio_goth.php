@@ -8,7 +8,7 @@
             include './head.php';
         ?>
     </head>
-    <body class="" id="top" oncontextmenu="return false">
+    <body class="" id="top" oncontextmenu="return true">
         <!--==============================header=================================-->
         <header>
             <div id="stuck_container">
@@ -35,7 +35,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1"></div>  
+                <div class="block1">Mystic und Fetisch</div>  
             </div>
         </header>
         <div class="main">
@@ -44,9 +44,7 @@
                 <div class="container"><div class="ic">More Website Templates @ TemplateMonster.com - May 05, 2014!</div>
                     <div class="gallery gall__1">
                         <div class="row">
-                            <div class="grid_4">
-                                <h3>Mystic und Fetisch</h3>
-                            </div>
+                            
                             <div class="clear"></div>
                             <?php
                             $dir_bigfiles = "images/gallery/big/goth/";

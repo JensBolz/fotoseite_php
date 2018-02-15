@@ -32,7 +32,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1"></div>  
+                <div class="block1">Tiere und Insekten</div>  
             </div>
         </header>
         <div class="main">
@@ -40,10 +40,7 @@
             <section class="content cont_pad1">
                 <div class="container">
                     <div class="gallery gall__1">
-                        <div class="row">
-                            <div class="grid_4">
-                                <h3>Tiere und Insekten</h3>
-                            </div>
+                        <div class="row">                            
                             <div class="clear"></div>
                             <?php
                             $dir_bigfiles = "images/gallery/big/animales/";

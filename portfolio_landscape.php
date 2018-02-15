@@ -6,7 +6,7 @@
             include './head.php';
         ?>
     </head>
-    <body class="" id="top" oncontextmenu="return false">
+    <body class="" id="top" oncontextmenu="return true">
         <!--==============================header=================================-->
         <header>
             <div id="stuck_container">
@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1"></div>  
+                <div class="block1">Landschaften</div>  
             </div>
         </header>
         <div class="main">
@@ -42,9 +42,7 @@
                 <div class="container">
                     <div class="gallery gall__1">
                         <div class="row">
-                            <div class="grid_4">
-                                <h3>Landschaften</h3>
-                            </div>
+                            
                             <div class="clear"></div>
                             <?php
                             $dir_bigfiles = "images/gallery/big/landscape/";

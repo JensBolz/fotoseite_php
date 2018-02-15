@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1"></div>   
+                <div class="block1">Über mich</div>   
             </div>   
 
         </header>
@@ -47,7 +47,7 @@
                             <div class="row">
                                 <div class="clear"></div>
                                 <div class="grid_4a">
-                                    <h3>Über mich</h3>
+                                   
                                     <p>
                                         Als hauptberuflicher Software- und Webentwickler ist Fotografie für mich ein Ausgleich zum Beruf und eine Art Meditation. Bei meinen eigenen Projekten oder Fototouren fotografiere das was mir Spaß macht und folge nicht einem bestimmten Trend oder irgendwelchen Vorgaben.<br>
 

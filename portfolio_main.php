@@ -33,7 +33,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1"></div>  
+                <div class="block1">Portfolio</div>  
             </div>  
         
         </header>
@@ -44,7 +44,7 @@
                     
                     <div class="row">
                         <div class="grid_12">
-                            <h2>Portfolio</h2>                            
+                                                     
                             <div class="gallery">
                                 <div class="row">
                                     <div class="grid_4 gal_item">
