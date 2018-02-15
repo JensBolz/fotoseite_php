@@ -13,13 +13,19 @@
                 <div class="container">
                     <div class="row">
                         <div class="grid_12">
-                            <div class="logo">Jens Bolz Photography</div>
+                            <h1>
+                                <a href="index.php">
+                                    <img src="../images/logo.png" alt="Your Happy Family">
+                                </a>
+                            </h1>
                             <div class="menu_block ">
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">
-                                        <li><a href="index.php">Über</a></li>
-                                        <li class="current">Impressum</li>
+                                        <li><a href="index.php">Start</a></li>
+                                        <li><a href="portfolio_main.php">Portfolio</a></li>
+                                        <li><a href="about.php">Über mich</a></li>                               
                                         <li><a href="contact.php">Kontakt</a></li>
+                                        <li class="current">Impressum</li>
 
                                     </ul>
                                 </nav>
@@ -32,6 +38,17 @@
         </header>
         <div class="main">
             <!--=====================Content======================-->
+            <div class="block1">
+                <div class="container">
+                    <div class="row">
+                        <div class="grid_12">
+                            <div class="rel">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
             <section class="content"> 
                 <div class="container">
                     <div class="adress">
