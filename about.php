@@ -33,28 +33,17 @@
                         </div>
                     </div>
                 </div>
+                <div class="block1"></div>   
             </div>   
 
         </header>
         <div class="main">
             <!--=====================Content======================-->
-            <div class="block1">
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_12">
-                            <div class="rel">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>     
+              
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="grid_12">                               
-
-
+                        <div class="grid_12">     
                             <div class="row">
                                 <div class="clear"></div>
                                 <div class="grid_4a">
@@ -70,7 +59,7 @@
 
                             <div class="row">
                                 <div class="grid_4a">
-                                    <h3>Fotos im Netz</h3>
+                                    <h3>Im Netz</h3>
                                     <ul class="list1">
                                         <li>
                                             <div class="list_count">1</div>
@@ -93,6 +82,13 @@
                                                 <a href="http://www.fotocommunity.de/fotograf/jens-bolz/2147626" target="_blank" class="color1 td_und">More</a>
                                             </div>
                                         </li>
+<!--                                        <li>
+                                            <div class="list_count">4</div>
+                                            <div class="extra_wrapper">
+                                                <div class="list1_title color2"><a href="#" target="_blank">ModelKartei</a></div>Meine Fotos auf ModelKartei
+                                                <a href="#" target="_blank" class="color1 td_und">More</a>
+                                            </div>
+                                        </li>-->
                                     </ul>
                                 </div>
                             </div>

@@ -33,22 +33,12 @@
                         </div>
                     </div>
                 </div>
+                <div class="block1"></div>  
             </div>
         </header>
         <div class="main">
             <!--=====================Content======================-->
-          <div class="block1">
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_12">
-                            <div class="rel">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>  
-            <section class="content cont_pad1">
+          <section class="content cont_pad1">
                 <div class="container">
                     <div class="gallery gall__1">
                         <div class="row">

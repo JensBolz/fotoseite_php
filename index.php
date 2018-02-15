@@ -33,24 +33,14 @@
                         </div>
                     </div>
                 </div>
-            </div>   
+                <div class="block1"></div>  
+            </div>
+            
             
         </header>
         <div class="main">
             <!--=====================Content======================-->
-            <div class="block1">
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_12">
-                            <div class="rel">
-                                <p>
-                                <center>Hallo und herzlich Willkommen auf Jens Bolz Photography.</center> 
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>     
+               
             <section>
                 <div class="container">
                     <div class="row">

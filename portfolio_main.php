@@ -28,27 +28,17 @@
 
                                     </ul>
                                 </nav>
-                                <div class="clear"></div>
+                               
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="block1"></div>  
             </div>  
         
         </header>
         <div class="main">
-            <!--=====================Content======================-->
-                <div class="block1">
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_12">
-                            <div class="rel">
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>  
+            <!--=====================Content======================-->                
             <section>
                 <div class="container">
                     
