@@ -38,9 +38,20 @@
         </header>
         <div class="main">
             <!--=====================Content======================-->
-                
+                <div class="block1">
+                <div class="container">
+                    <div class="row">
+                        <div class="grid_12">
+                            <div class="rel">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>  
             <section>
                 <div class="container">
+                    
                     <div class="row">
                         <div class="grid_12">
                             <h2>Portfolio</h2>                            
