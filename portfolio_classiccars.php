@@ -54,15 +54,13 @@
                         </div>
                     </div>
                 </div>
-            </section>
-            <!--==============================Bot_block=================================-->
-            <section class="bottom_block"></section>
-        </div>
+            </section>           
         <!--==============================footer=================================-->
         <footer>
-            <?php
+                <section class="block1"></section>
+                <?php
                 include './footer.php';
-            ?>
-        </footer>
+                ?>
+            </footer>
     </body>
 </html>

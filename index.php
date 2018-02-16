@@ -44,14 +44,15 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="grid_12">            
+                        <div class="grid_13">            
                     </div>
                 </div>
-                <div class="grid_12">
-                    <section class="bottom_block"></section>
-                </div>
+                    <div class="grid_12"></div>
+                    
+                   
             </section>
             <footer>
+                 <section class="block1"></section>
                 <?php
                 include './footer.php';
                 ?>

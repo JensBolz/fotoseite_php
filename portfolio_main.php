@@ -103,20 +103,15 @@
                                             <div class="gal_caption">Goth und Fetisch</div>
                                         </a>
                                     </div>
-                                </div>                           
-                                                             
-
-                                <div class="clear"></div>
-                                <div class="grid_12">
-                                    <section class="bottom_block"></section>
                                 </div>
-
+                                <div class="clear"></div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
             <footer>
+                <section class="block1"></section>
                 <?php
                 include './footer.php';
                 ?>
