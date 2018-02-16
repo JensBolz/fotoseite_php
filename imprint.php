@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="de">
-   <head>
+    <head>
         <title>Home</title>
         <?php
         include './head.php';
@@ -160,24 +160,11 @@
                     </div>
             </section>       
             <!--==============================footer=================================-->
-            <footer>
-                <div class="container">
-                    <div class="row">
-                        <div class="grid_12">
-<!--                            <div class="footer_socials">
-                                <a href="#" class="fa fa-twitter"></a>
-                                <a href="#" class="fa fa-facebook"></a>
-                                <a href="#" class="fa fa-google-plus"></a>
-                                <a href="#" class="fa fa-pinterest"></a>
-                            </div>-->
-                             <footer>
-                                <?php
-                                include './footer.php';
-                                ?>
-                            </footer>
-                        </div>
-                    </div>
-                </div>
+            <footer>        
+                <section class="block1"></section>
+                    <?php
+                    include './footer.php';
+                    ?>
             </footer>
     </body>
 </html>
