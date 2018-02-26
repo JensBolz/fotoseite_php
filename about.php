@@ -39,7 +39,7 @@
         </header>
         <div class="main">
             <!--=====================Content======================-->
-              
+
             <section>
                 <div class="container">
                     <div class="row">
@@ -47,7 +47,7 @@
                             <div class="row">
                                 <div class="clear"></div>
                                 <div class="grid_4a">
-                                   
+
                                     <p>
                                         Als hauptberuflicher Software- und Webentwickler ist Fotografie für mich ein Ausgleich zum Beruf und eine Art Meditation. Bei meinen eigenen Projekten oder Fototouren fotografiere das was mir Spaß macht und folge nicht einem bestimmten Trend oder irgendwelchen Vorgaben.<br>
 
@@ -82,13 +82,13 @@
                                                 <a href="http://www.fotocommunity.de/fotograf/jens-bolz/2147626" target="_blank" class="color1 td_und">More</a>
                                             </div>
                                         </li>
-<!--                                        <li>
+                                        <li>
                                             <div class="list_count">4</div>
                                             <div class="extra_wrapper">
-                                                <div class="list1_title color2"><a href="#" target="_blank">ModelKartei</a></div>Meine Fotos auf ModelKartei
-                                                <a href="#" target="_blank" class="color1 td_und">More</a>
+                                                <div class="list1_title color2"><a href="http://www.dvf-fotografie.de" target="_blank">Deutscher Verband für Fotografie e.V.</a></div>DVF
+                                                <a href="http://www.dvf-fotografie.de" target="_blank" class="color1 td_und">More</a>
                                             </div>
-                                        </li>-->
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -132,22 +132,18 @@
                                     </div>
                                 </div>
                             </div>
-
-                            <div class="clear"></div>
-                            <div class="grid_12">
-                                <section class="bottom_block"></section>
-                            </div>
-
                         </div>
                     </div>
                 </div>
-                </section>
+            </section>
+            <footer>
+                <section class="block1"></section>
+                    <?php
+                    include './footer.php';
+                    ?>
+            </footer>
         </div>    
-    <footer>
-        <?php
-        include './footer.php';
-        ?>
-    </footer>
-</div>
+
+    </div>
 </body>
 </html>
