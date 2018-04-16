@@ -409,6 +409,7 @@ header h1 a img {
 
 }
 
+
 .block1 p {
     margin-bottom: 0;
     padding-right: 250px;
@@ -555,18 +556,21 @@ header h1 a img {
 /**Bot block**/
 
 .bottom_block {
-    background-color: #ddd;
-    color: #000;
-    font-size: 20px;
+    background-color: #a56375;
+    color: #fff;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
     line-height: 35px;
-    padding: 15px 0 16px;
+    padding: 26px 0 26px;
+    margin-top: 35px;
 }
 
-.bottom_block .fa {
+/*.bottom_block .fa {
     font-size: 24px;
     margin-right: 30px;
     margin-top: 5px;
-}
+}*/
 
 .bot_title {
     margin-left: 100px;

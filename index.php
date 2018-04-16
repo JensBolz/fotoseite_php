@@ -15,7 +15,7 @@
                         <div class="grid_12">
                             <h1>
                                 <a href="index.php">
-                                    <img src="images/logo.png" alt="Your Happy Family">
+                                    <img src="images/logo.png" alt="Jens Bolz Photography">
                                 </a>
                             </h1>
                             <div class="menu_block">
