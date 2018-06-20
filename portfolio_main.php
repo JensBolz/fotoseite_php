@@ -92,7 +92,7 @@
                                         </a>
                                     </div>                                 
                                     <div class="grid_4 gal_item">
-                                        <!--    <a href="portfolio_nude.php">
+<!--                                            <a href="portfolio_nude.php">
                                                 <img src="images/home/portfolio/thumbs/cementary_thumb.jpg" alt="">
                                                 <div class="gal_caption">Nude Art</div>
                                             </a>-->

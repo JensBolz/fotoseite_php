@@ -6,7 +6,7 @@
             include './head.php';
         ?>
     </head>
-<!--    <body class="" id="top" oncontextmenu="return false">
+    <body class="" id="top" oncontextmenu="return false">
         ==============================header=================================
         <header>
             <div id="stuck_container">
@@ -55,7 +55,7 @@
                     </div>
                 </div>
             </section>           
-        </div>-->
+        </div>
         <!--==============================footer=================================-->
         <footer>
                 <section class="block1"></section>
