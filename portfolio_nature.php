@@ -13,11 +13,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="grid_12">
-                            <h1>
-                                <a href="index.php">
-                                    <img src="images/logo.png" alt="Your Happy Family">
-                                </a>
-                            </h1>
+                           <div class="logoText">Jens Bolz Fotografie</div>
                             <div class="menu_block ">
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">

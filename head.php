@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="css/touchTouch.css">
 <link rel="stylesheet" href="css/camera.css">
 <link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/picturegrid.css">
+<!--<link rel="stylesheet" href="css/picturegrid.css">-->
 <script src="js/jquery.js"></script>
 <script src="js/jquery-migrate-1.1.1.js"></script>
 <script src="js/script.js"></script>
