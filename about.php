@@ -47,7 +47,6 @@
                             <div class="row">
                                 <div class="clear"></div>
                                 <div class="grid_4a">
-
                                     <p>
                                         Als hauptberuflicher Software- und Webentwickler ist Fotografie für mich ein Ausgleich zum Beruf und eine Art Meditation. Bei meinen eigenen Projekten oder Fototouren fotografiere das was mir Spaß macht und folge nicht einem bestimmten Trend oder irgendwelchen Vorgaben.<br>
 
@@ -112,9 +111,10 @@
                                             <li>Nikon AF-S Micro 40mm 2.8</li>
                                             <li>Nikon AF-S 50mm 1.8</li>
                                             <li>Nikon AF 85mm 1.8 D</li>
-                                            <li>Nikon AF-S 18-55mm 3.5-4.5</li>
-                                            <li>Nikon AF-S 55-200mm 4-5.6</li>
-                                            <li>Tamron 17-50mm 2.8</li>
+                                            <li>Nikon AF-S 18-55mm 3.5-4.5 VR</li>
+                                            <li>Nikon AF-S 55-200mm 4-5.6 VR</li>
+                                            <li>Tamron 17-50mm 2.8 VC</li>
+                                            <li>Tamron 70-300mm 4-5.6 VC</li>
                                             <li>Tamron 150-600mm 5-6.3 VC</li>
                                             <li>Sigma 10-20mm 4-5.6</li>
                                             <li>Sigma 70-300mm Makro</li>
@@ -122,12 +122,19 @@
                                     </div>
                                     <div class="grid_4">
                                         <div class="block2_title color1">Beleuchtung</div>
+                                        <div class="block2_title color1">Aufsteckblitze</div>
                                         <ul class="list">
                                             <li>Triopo TR970N Speedlight</li>
                                             <li>2 x Neewer VK750 II Speedlite</li>
                                             <li>Neewer TT660 Speedlight</li>
                                             <li>2 x Yongnuo 560 II Speedlight</li>
                                             <li>Yongnuo YN 568 EX Speedlight</li>
+                                        </ul>
+                                        <br>
+                                        <div class="block2_title color1">Studioblitze</div>
+                                        <ul class="list">
+                                            <li>Walimex Newcomer 100</li>
+                                            <li>Walimex Newcomer 150</li>                                   
                                         </ul>
                                     </div>
                                 </div>
