@@ -201,6 +201,14 @@ table {
     width: 185px;
 }
 
+.container_portfolio {
+    margin: auto;
+    padding: 1rem 1rem 1rem 1rem;
+    max-width: 71.25rem;
+    width: 100%;
+    background-color: white;
+}
+
 .grid_4 {
     margin-top: 25px;
     margin-bottom: 25px;
@@ -209,6 +217,15 @@ table {
 
 .grid_4a {
     font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 1170px;
+}
+
+.grid_mainpage {
+    text-align: center;
+    color: white;
+    font-size: 35px;
     margin-top: 25px;
     margin-bottom: 25px;
     width: 1170px;
@@ -465,6 +482,16 @@ table {
 .select-menu {
   display: none !important;
 }
+
+.container_grid {
+  margin: auto;
+  padding: 1rem 1rem 1rem 1rem;
+  max-width: 71.25rem;
+  width: 100%;
+  background-color: white;
+}
+
+
 @media (max-width: 767px) {
   .container {
     width: 420px;

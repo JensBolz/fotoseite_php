@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Portfolio - Mystic und Fetisch</title>
+        <title>Portfolio - Goth und Fetisch</title>
         <?php
             include './head.php';
         ?>
@@ -20,7 +20,7 @@
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">
                                         <li><a href="portfolio_main.php">Portfolio</a></li>
-                                        <li class="current">Gotic</li>
+                                        <li class="current">Goth und Fetisch</li>
                                          <li><a href="about.php">Über mich</a></li>
 <!--                                        <li><a href="references.html">Referenzen</a></li>-->
                                         <li><a href="contact.html">Kontakt</a></li>
@@ -32,7 +32,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="block1">Mystic und Fetisch</div>  
+                <div class="block1">Goth und Fetisch</div>  
             </div>
         </header>
         <div class="main">

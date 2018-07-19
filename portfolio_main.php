@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
     <head>
         <title>Portfolio</title>
         <?php
-        include './head.php';
+            include './head.php';
         ?>
+        <link rel="stylesheet" href="css/picturegrid.css">
     </head>
-    <body class="page1" id="top" oncontextmenu="return true">
+    <body class="" id="top" oncontextmenu="return true">
         <!--==============================header=================================-->
         <header>
             <div id="stuck_container">
@@ -14,104 +15,159 @@
                     <div class="row">
                         <div class="grid_12">
                             <div class="logoText">Jens Bolz Fotografie</div>
-                            <div class="menu_block">
+                            <div class="menu_block ">
                                 <nav class="horizontal-nav full-width horizontalNav-notprocessed">
                                     <ul class="sf-menu">
-                                        <li><a href="index.php">Start</a></li>
+                                        <li><a href="index.php">Start</a></li> 
                                         <li class="current">Portfolio</a></li>
                                         <li><a href="about.php">Über mich</a></li>
-                                        <li><a href="contact.php">Kontakt</a></li>                               
-
+                                        <li ><a href="contact.php">Kontakt</a></li>
                                     </ul>
                                 </nav>
-                               
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="block1">Portfolio</div>  
-            </div>  
-        
-        </header>
-        <div class="main">
-            <!--=====================Content======================-->                
-            <section>
-                <div class="container">
-                    
-                    <div class="row">
-                        <div class="grid_12">
-                                                     
-                            <div class="gallery">
-                                <div class="row">
-                                    <div class="grid_4 gal_item">
-                                        <a href="portfolio_people.php" >
-                                            <img src="images/gallery/thumbs/people/thumb1.jpg" alt="">
-                                            <div class="gal_caption" >Menschen</div>
-                                        </a>
-                                    </div>
-                                    <div class="grid_4 gal_item" >
-                                        <a href="portfolio_classiccars.php">
-                                            <img src="images/home/portfolio/thumbs/classiccars_thumb.jpg" alt="">
-                                            <div class="gal_caption">Classic Cars</div>
-                                        </a>
-                                    </div>
-                                    <div class="grid_4 gal_item" >
-                                        <a href="portfolio_architecture.php">
-                                            <img src="images/home/portfolio/thumbs/arcitecture_thumb.jpg" alt="">
-                                            <div class="gal_caption">Architektur</div>
-                                        </a>
-                                    </div>
-                                    <div class="clear"></div>
-                                    <div class="grid_4 gal_item" >
-                                        <a href="portfolio_animales.php">
-                                            <img src="images/home/portfolio/thumbs/animal_thumb.jpg" alt="">
-                                            <div class="gal_caption">Tiere und Insekten</div>
-                                        </a>
-                                    </div>
-                                    <div class="grid_4 gal_item" >
-                                        <a href="portfolio_landscape.php">
-                                            <img src="images/home/portfolio/thumbs/landscape_thumb.png" alt="">
-                                            <div class="gal_caption">Landschaft</div>
-                                        </a>
-                                    </div>
-                                    <div class="grid_4 gal_item">
-                                        <a href="portfolio_nature.php">
-                                            <img src="images/home/portfolio/thumbs/nature_thumb.jpg" alt="">
-                                            <div class="gal_caption">Natur</div>
-                                        </a>
-                                    </div>
-                                    <div class="clear"></div>
-                                    <div class="grid_4 gal_item">
-                                        <a href="portfolio_cementaries.php">
-                                            <img src="images/home/portfolio/thumbs/cementary_thumb.jpg" alt="">
-                                            <div class="gal_caption">Friedhöfe</div>
-                                        </a>
-                                    </div>                                 
-                                    <div class="grid_4 gal_item">
-<!--                                            <a href="portfolio_nude.php">
-                                                <img src="images/home/portfolio/thumbs/cementary_thumb.jpg" alt="">
-                                                <div class="gal_caption">Nude Art</div>
-                                            </a>-->
-                                    </div>
-                                    <div class="grid_4 gal_item">
-                                        <a href="portfolio_goth.php">
-                                            <img src="images/home/portfolio/thumbs/goth_thumb.jpg" alt="">
-                                            <div class="gal_caption">Goth und Fetisch</div>
-                                        </a>
-                                    </div>
-                                </div>
                                 <div class="clear"></div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="block1">Portfolio</div>  
+            </div>
+        </header>
+         <div class="main">
+            <!--=====================Imprint======================-->
+             
+            
+            <section class="content">
+                <section class="gallery">
+                    <div class="container_grid">
+                      <div class="grid">
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">                              
+                              <a href="portfolio_people.php"><img src="images/gallery/big/people/big1.jpg" /></a>
+                            <figcaption class="img-content">
+                              <h2 class="title">Menschen</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">People</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                              <a href="portfolio_classiccars.php"><img src="images/gallery/big/classiccars/00000007.jpg" /></a>
+                            <figcaption class="img-content">
+                              <h2 class="title">Classic Cars</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Classic Cars</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                              <a href="portfolio_architecture.php"><img src="images/gallery/big/architecture/big1.jpg"></a>  
+                            <figcaption class="img-content">
+                              <h2 class="title">Architektur</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Architektur</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                            <a href="portfolio_nature.php"><img src="images/gallery/big/nature/big3.jpg" /></a>    
+                            <figcaption class="img-content">
+                              <h2 class="title">Natur</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Natur</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                              <a href="portfolio_landscape.php"><img src="images/gallery/big/landscape/big1.jpg" /></a>  
+                            <figcaption class="img-content">
+                              <h2 class="title">Landschaften</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Landschaften</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                              <a href="portfolio_animales.php"><img src="images/gallery/big/animales/big6.jpg" /></a>  
+                            <figcaption class="img-content">
+                              <h2 class="title">Tiere und Insekten</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Tieren und Insekten</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                          <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                              <a href="portfolio_cementaries.php"><img src="images/gallery/big/cementaries/big2.jpg" /></a>  
+                            <figcaption class="img-content">
+                              <h2 class="title">Friedhöfe</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Friedhöfe</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+<!--                          <figure class="img-container"> 
+                            <figcaption class="img-content">
+                              <h2 class="title">Akt</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Akt</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>-->
+                        </div>
+                        <div class="column-xs-12 column-md-4">
+                          <figure class="img-container">
+                              <a href="portfolio_goth.php"><img src="images/gallery/big/goth/big1.jpg" /></a>  
+                            <figcaption class="img-content">
+                              <h2 class="title">Goth und Fetisch</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </figcaption>
+                            <span class="img-content-hover">
+                              <h2 class="title">Goth und Fetisch</h2>
+                              <h3 class="category">Zur Gallerie</h3>
+                            </span>
+                          </figure>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
             </section>
-            <footer>
-                <section class="block1"></section>
-                <?php
-                include './footer.php';
-                ?>
-            </footer>
+            
+            <section class="bottom_block"></section>
         </div>
+        <!--==============================footer=================================-->
+        <footer>
+                 <?php
+                 include './footer.php';
+                 ?>
+        </footer>
     </body>
 </html>
